@@ -9,7 +9,7 @@
 - `Email` : erer988872@gmail.com
 -  FrontEnd**
   - Major : Java, Python, React, Springboot
-<--!- Minor : --!>
+
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
