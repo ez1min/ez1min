@@ -52,9 +52,11 @@
 -->
 
 ## Project List
-- [HTML] [HTML공부](https://github.com/ez1min/2025-HTML)
-- [Python] [미니프로젝트1](https://github.com/ez1min/mini_project_2025-03)
-- [Python] [Python 데이터 분석](https://github.com/ez1min/2025-python)
-- [REACT+SPRING] [미니프로젝트2](https://github.com/ez1min/Mini_Project2)
+## 📂 프로젝트 목록
+
+- [Python] [Mini Project 1](https://github.com/ez1min/mini_project_2025-03) (2025.03)
+- [Java, Spring Boot] [합격할 sudo](https://github.com/park0609/Mini_Project2) (2025.04)
+- [Java, Spring Boot] [기분정거장](https://github.com/BSEom/miniworld) (2025.06)
+- [Python, Java, Spring Boot] [이음 AI](https://github.com/ez1min/senior-ai-stt) (2026.06)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
